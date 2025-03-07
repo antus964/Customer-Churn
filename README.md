@@ -1,9 +1,9 @@
-📉 Customer Churn Prediction using Machine Learning
-📌 Project Overview
+#**📉 Customer Churn Prediction using Machine Learning**#
+##**📌 Project Overview**##
 This project predicts customer churn using machine learning by analyzing key factors like account activity, contract type, and monthly charges. By identifying potential churners, businesses can take proactive measures to retain customers.
 
 
-🛠 Tech Stack
+##**🛠 Tech Stack**#
 
 Python 🐍
 
