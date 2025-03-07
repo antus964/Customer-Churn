@@ -1,9 +1,10 @@
 # **📉 Customer Churn Prediction using Machine Learning** #
-##**📌 Project Overview**##
+
+## **📌 Project Overview** ##
 This project predicts customer churn using machine learning by analyzing key factors like account activity, contract type, and monthly charges. By identifying potential churners, businesses can take proactive measures to retain customers.
 
 
-##**🛠 Tech Stack**#
+## **🛠 Tech Stack** ##
 
 Python 🐍
 
@@ -11,7 +12,7 @@ Python Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 ML Models: Logistic Regression, Random Forest, XGBoost
 
-📊 Project Workflow
+## **📊 Project Workflow** ##
 
 1️⃣ Data Preprocessing – Handling missing values, feature encoding
 
@@ -23,5 +24,5 @@ ML Models: Logistic Regression, Random Forest, XGBoost
 
 5️⃣ Prediction & Insights – Understanding factors influencing churn
 
-📜 License
+## **📜 License** ##
 📝 This project is licensed under the MIT License.
