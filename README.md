@@ -14,25 +14,5 @@ ML Models: Logistic Regression, Random Forest, XGBoost
 4️⃣ Evaluation – Accuracy, Precision, Recall, F1-score
 5️⃣ Prediction & Insights – Understanding factors influencing churn
 
-🚀 How to Use
-1️⃣ Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/customer-churn-prediction.git
-cd customer-churn-prediction
-2️⃣ Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3️⃣ Run the model:
-
-bash
-Copy
-Edit
-python main.py
 📜 License
 📝 This project is licensed under the MIT License.
