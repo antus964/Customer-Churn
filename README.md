@@ -4,14 +4,23 @@ This project predicts customer churn using machine learning by analyzing key fac
 
 
 🛠 Tech Stack
+
 Python 🐍
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+Python Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 ML Models: Logistic Regression, Random Forest, XGBoost
+
 📊 Project Workflow
+
 1️⃣ Data Preprocessing – Handling missing values, feature encoding
+
 2️⃣ Exploratory Data Analysis (EDA) – Understanding churn patterns
+
 3️⃣ Model Training – Using ML models for classification
+
 4️⃣ Evaluation – Accuracy, Precision, Recall, F1-score
+
 5️⃣ Prediction & Insights – Understanding factors influencing churn
 
 📜 License
