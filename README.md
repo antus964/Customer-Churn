@@ -5,7 +5,6 @@ This project predicts customer churn using machine learning by analyzing key fac
 
 
 ## **🛠 Tech Stack** ##
-
 Python 🐍
 Python Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
